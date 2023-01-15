@@ -17,7 +17,7 @@ exports.Announcements = [
 
 exports.Dev = [
 	{
-		source: 'https://i.postimg.cc/HngskW95/clock.jpg',
+		source: 'https://i.postimg.cc/N0ng1Ppp/Neeraj.png',
 		color: '#ffe9a9',
 		bgColor: '#fff9e8',
 		fontColor: '#bc8d00',
@@ -26,7 +26,7 @@ exports.Dev = [
 		alt: 'first',
 	},
 	{
-		source: 'https://i.postimg.cc/52T8NzrG/Meghna.png',
+		source: 'https://i.postimg.cc/W3kBfxF3/Meghna.png',
 		color: '#c7ebfc',
 		bgColor: '#e9f8ff',
 		fontColor: '#005f8c',

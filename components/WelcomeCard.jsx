@@ -67,7 +67,7 @@ const WelcomeCard = () => {
 										source={{
 											uri: item.source,
 										}}
-										size={60}
+										size={70}
 										alt={item.alt}></Image>
 									<Text
 										color={item.fontColor}
@@ -76,7 +76,10 @@ const WelcomeCard = () => {
 										fontWeight={'extrabold'}>
 										{item.name}
 									</Text>
-									<Text paddingLeft={'15'}>
+									<Text
+										paddingLeft={'15'}
+										color='gray.400'
+										fontWeight={'semibold'}>
 										{item.description}
 									</Text>
 								</Box>
